@@ -1,3 +1,1 @@
-imie: Mikita Kasevich
-
-grupa: P01
+Unit tests written with the help of Python.
